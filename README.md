@@ -19,10 +19,17 @@ Simple SETUP:
 Download the zip file and extract it anywhere.
 
 
-Edit the file within "Bot > Konabot.aternos > bot.js." Edit it with notepad, or notepad++. Change values: 
-const BOT_NAME = 'Konabot';   Name it if you want. 
-const HOST = 'PUT YOUR SERVER IP HERE';  The IP will look like this. Just change it to yours.
-const PORT = 01010;  Your port should look something like this. Change it to yours
+Edit the file within "Bot > Konabot.aternos > bot.js." 
+Edit it with notepad, or notepad++. Change values: 
+
+const BOT_NAME = 'Konabot';   
+Name it if you want. 
+
+const HOST = 'PUT YOUR SERVER IP HERE';  
+The IP will look like this. Just change it to yours.
+
+const PORT = 01010;  
+Your port should look something like this. Change it to yours
 
 
 
