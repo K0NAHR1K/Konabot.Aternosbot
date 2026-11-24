@@ -1,0 +1,2 @@
+# Aternos-Bot
+AFK BOT FOR ATERNOS
